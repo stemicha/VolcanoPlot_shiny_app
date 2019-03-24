@@ -10,9 +10,6 @@ library(formattable)
 
 
 
-
-
-
 dashboardPage(
   dashboardHeader(title = "Volcano Plot"),
   dashboardSidebar(sidebarMenu(
